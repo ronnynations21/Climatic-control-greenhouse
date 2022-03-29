@@ -9,7 +9,8 @@ Este sistema es demostrativo o demo porque la versión pro o full (Que no es gra
 
 Próximamente en desarrollo!! 
 
-Nota: Esta aplicación es fruto del trabajo de investigación y desarrollo, por más de 5 años y la publicación internacional, del propio autor, sobre invernaderos ecológicos en el congreso internacional Ingeniería Agrícola 2012, en Cuba. Ya contamos con un prototipo previamente creado y desarrollado por el autor en Cuba.
+Nota: Esta aplicación es fruto del trabajo de investigación y desarrollo, por más de 5 años y la publicación internacional, del propio autor, sobre invernaderos ecológicos en el congreso internacional Ingeniería Agrícola 2012, en Cuba. Ya contamos con un prototipo previamente creado y desarrollado por el autor en Cuba en lenguaje de programación C++ (Red Neuronal Supervisada con Ajustes de optimización de un controlador Fuzzy tipo Takagi-Sugeno) y PHP, HTML, CSS, Bootstrap, JS y MySQL (Para la aplicación Web)
+
 Además forma parte del proyecto ecointeligente "Creación de una Parcela Agroecológica con uso de Tecnologías de Invernaderos Ecointeligentes en zonas Urbanas de Chile", que el autor formuló y desarrolló como Asesor extranjero para una empresa en Chile.
 
 
